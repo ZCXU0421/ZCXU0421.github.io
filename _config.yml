@@ -17,8 +17,7 @@ baseurl: "" # Deploy as <your-github-username>.github.io -> site is served from 
 
 # Build settings
 markdown: kramdown
-plugins:
-  - jekyll-email-protect
+plugins: []
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

@@ -36,7 +36,7 @@
 
                 <div class="row small">
                     <div class="col text-center">
-                        <a class="email-text" href="mailto:{{ site.data.profile.email | encode_email }}">
+                        <a class="email-text" href="mailto:{{ site.data.profile.email | replace: '@', '&#64;' }}">
                             {{ site.data.profile.email | replace: "@", "(at)" }}
                         </a>
                     </div>
