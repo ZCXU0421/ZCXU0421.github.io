@@ -21,17 +21,18 @@ github: ZCXU0421
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Zhicheng Xu is a Ph.D. candidate in the Department of Electrical and Computer Engineering at
-    The University of Hong Kong (HKU).
+    I am a Ph.D. candidate in the Department of Electrical and Computer Engineering at
+    The University of Hong Kong (HKU), advised by Prof.
+    <a href="https://ece.hku.hk/people/canl/" target="_blank">Can Li</a>.
   </p>
   <p>
-    His research focuses on <strong>in-memory computing</strong> and <strong>efficient hardware for AI</strong>,
+    My research focuses on <strong>in-memory computing</strong> and <strong>efficient hardware for AI</strong>,
     including compute-in-memory architectures based on emerging non-volatile memories (e.g., ferroelectric
     field-effect transistors and memristors), reliable analogue computing with imperfect devices, and
     hardware acceleration for Bayesian inference and nearest-neighbor search.
   </p>
   <p>
-    His work has been published in <i>Nature Electronics</i>, <i>Nature Communications</i>,
+    My work has been published in <i>Nature Electronics</i>, <i>Nature Communications</i>,
     <i>IEEE Transactions on Computers</i>, DAC, DATE, and ICCAD.
   </p>
 
