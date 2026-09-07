@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Zhicheng Xu"
 
 positions:
-- name: Ph.D. Student
+- name: Ph.D. Candidate
 - name: The University of Hong Kong
 
 
@@ -21,7 +21,7 @@ github: ZCXU0421
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    Zhicheng Xu is a Ph.D. student in the Department of Electrical and Computer Engineering at
+    Zhicheng Xu is a Ph.D. candidate in the Department of Electrical and Computer Engineering at
     The University of Hong Kong (HKU).
   </p>
   <p>
@@ -41,7 +41,7 @@ education:
 - name: The University of Hong Kong
   logo: /assets/images/badges/HKU_crest.svg
   dept: Department of Electrical and Computer Engineering
-  position: Ph.D. Student
+  position: Ph.D. Candidate
   date: Aug. 2023 – present
 - name: Zhejiang University
   logo: /assets/images/badges/ZJU_badge.svg
