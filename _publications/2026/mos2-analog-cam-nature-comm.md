@@ -1,7 +1,7 @@
 ---
 title:          "Trustworthy tree-based machine learning by MoS2 flash-based analog content-addressable memory with inherent soft boundaries"
 date:           2026-04-24 00:00:00 +0800
-selected:       false
+selected:       true
 pub:            "Nature Communications"
 pub_date:       "2026"
 abstract: >-

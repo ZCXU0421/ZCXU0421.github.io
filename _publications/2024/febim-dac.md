@@ -1,7 +1,7 @@
 ---
 title:          "FeBiM: Efficient and Compact Bayesian Inference Engine Empowered with Ferroelectric In-Memory Computing"
 date:           2024-06-23 00:00:00 +0800
-selected:       true
+selected:       false
 pub:            "ACM/IEEE Design Automation Conference (DAC)"
 pub_date:       "2024"
 semantic_scholar_id: 3e7455b670405ef41526a61db312013f928d274b
